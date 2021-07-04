@@ -2,3 +2,4 @@ Initial test
 ------------
 1. Add your file to the staging area
 
+2. Commit using the commit button
