@@ -1,1 +1,4 @@
-Initial test 
+Initial test
+------------
+1. Add your file to the staging area
+
